@@ -7,11 +7,8 @@
 
 - 📫 How to reach me **kmwdev@hconnect.co.kr**
 
-- 📄 Know about my experiences [https://velog.io/@unknown420/posts](https://velog.io/@unknown420/posts)
+- 📄 Know about my experiences [https://velog.io/@unknown420/posts](https://velog.io/@unknown420/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
