@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences [https://velog.io/@unknown420/posts](https://velog.io/@unknown420/posts)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
