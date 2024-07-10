@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 곽민우</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Korea</h3>
 
 - 🔭 I’m currently working on [Health Connect](https://github.com/hconnectdx)
 
